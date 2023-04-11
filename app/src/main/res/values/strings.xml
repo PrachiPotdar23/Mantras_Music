@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mantras Music</string>
+    <string name="play">Play</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="select">select</string>
+    <string name="setting_timer" />
+    <string name="wanna_set_timer_for_music">Wanna set Timer For Music?</string>
+</resources>
